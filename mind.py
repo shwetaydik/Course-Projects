@@ -1,5 +1,6 @@
 # Create two variables; 'last_1' and 'last_2' with 0 as their initial values.
 from gettext import install
+new changes
 
 
 last_1 = 0
